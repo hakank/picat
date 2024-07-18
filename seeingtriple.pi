@@ -1,4 +1,4 @@
-* Dell Logic Puzzles: Seeing Triple
+/* Dell Logic Puzzles: Seeing Triple
 https://groups.google.com/g/picat-lang/c/sKrIVx85jfo
 We have five sets of triplets. Can you match up each set of triplets with their age and home state? */
 import cp.
